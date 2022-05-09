@@ -28,11 +28,11 @@ const foodItem= [
 },
 {
     id: 4,
-    name: 'Goan Fish Biryani',
+    name: 'Goat Biryani',
     category : 'biryani',
     rating : 4.3,
     price: 15,
-    img: 'images/biryani/goan-fish-biryani.jpg',
+    img: 'images/biryani/goat-fish-biryani.jpg',
     quantity: 1
 },
 {
@@ -46,11 +46,11 @@ const foodItem= [
 },
 {
     id: 6,
-    name: 'Kamrupi Biryani',
+    name: 'kurma Biryani',
     category : 'biryani',
     rating : 4.3,
     price: 12,
-    img: 'images/biryani/kamrupi-biryani.jpg',
+    img: 'images/biryani/kurma-biryani.jpg',
     quantity: 1
 },
 {
@@ -64,11 +64,11 @@ const foodItem= [
 },
 {
     id: 8,
-    name: 'Memoni Biryani',
+    name: 'legpiece Biryani',
     category : 'biryani',
     rating : 4.3,
     price: 20,
-    img: 'images/biryani/memonibiryani.png',
+    img: 'images/biryani/legpiecebiryani.png',
     quantity: 1
 },
 {

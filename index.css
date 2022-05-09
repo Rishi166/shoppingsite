@@ -20,7 +20,7 @@ body{
     overflow: hidden;
 }
 #menu{
-    background: whitesmoke;
+    background: rgba(238, 232, 232, 0.788);
 }
 .title{
     padding: 0 30px;
@@ -108,7 +108,7 @@ body{
     border: none;
     outline: none;
     background: none;
-    color: rosybrown;
+    color: rgb(218, 184, 184);
     padding: 0 5px;
 }
 .food-items{
@@ -126,7 +126,7 @@ body{
     border-radius: 20px;
     cursor: pointer;
 }
-.util i:active{
+.util i:active,.user i:active{
     color: white;
     background: crimson;
 }
@@ -142,7 +142,7 @@ body{
 #category-name,.item-menu{
     margin: 10px;
     font-size: 35px;   
-    color: coral;
+    color: rgb(193, 73, 29);
     font-family: 'Aclonica', sans-serif;
 }
 #item-card{
@@ -220,7 +220,7 @@ color: white;
 #cart-title{
     font-size: 35px;
     margin: 0;
-    color: indianred;
+    color: rgb(136, 88, 88);
 }
 #cart-page table{
     width: 100%;
@@ -278,7 +278,7 @@ color: white;
 }
 #total-price,#total-item{
     font-size: 25px;
-    color: indianred;
+    color: rgb(156, 56, 56);
 }
 #delievery{
     font-size: 20px;
